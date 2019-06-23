@@ -1,3 +1,3 @@
 # MazeGenerator
 
-![](screenshot.png)
+![](animation.gif)
