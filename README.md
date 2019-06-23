@@ -1,6 +1,6 @@
 # MazeGenerator
 
-![](animation.gif)
+![](animation_low.gif)
 
 ## Introduce
 
